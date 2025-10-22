@@ -47,13 +47,6 @@ Explanation: search bar, pagination, shows title, date, location.
 
 (Repeat for each feature: registration, profile edit, event create, event detail, ticket confirmation, admin dashboard, GitHub repo page.)
 
-## 6. Work Division
-- Name A — 55%  
-  - Tasks: DB design, Event CRUD, migrations, views, deployment.
-
-- Name B — 45%  
-  - Tasks: Auth & profile, Ticketing, Comments, report preparation, tests.
-
 ## 7. Analysis & Evaluation
 - What worked well.
 - Known issues (e.g., payment not integrated, basic UI).
